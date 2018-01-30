@@ -1,0 +1,10 @@
+-----------------------
+2018.01.30
+BRANCH: Master
+MESSAGE: Mark Zero
+..
+Here I'm leaving all those days of numbering versions and start using git.
+
+
+
+------------------------
