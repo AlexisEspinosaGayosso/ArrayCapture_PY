@@ -8,3 +8,8 @@ Here I'm leaving all those days of numbering versions and start using git.
 
 
 ------------------------
+2018.01.30
+BRANCH: Master
+MESSAGE: Edit readme.txt for testing
+..
+Just testing how to use the GitHub when I make changes to the repo in Zeus and in my own computer.
